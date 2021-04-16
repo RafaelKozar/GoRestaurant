@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeoople.app%2Finfluencers%2Felianesousa1%2Frecomendaciones%2Fcomidas-gostosas%2F9d4e682b-92e3-675d-8a2b-dd4e682ba49e&psig=AOvVaw10FsLXBS9lSXwwkOdKUp5G&ust=1618605747380000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJje17iOgfACFQAAAAAdAAAAABAJ",
+      "name": "Lasanha",
+      "price": "19,90",
+      "description": "prato delicioso",
+      "available": true,
+      "id": 4
     }
   ]
 }
